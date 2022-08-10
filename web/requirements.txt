@@ -1,0 +1,4 @@
+elasticsearch==7.17.4
+sentence-transformers==2.2.2
+streamlit==1.11.1
+st-card-component==0.0.10
